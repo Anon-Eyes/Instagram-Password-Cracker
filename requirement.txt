@@ -1,0 +1,6 @@
+requests
+instaloader
+getpass
+subprocess
+random
+pyfiglet
